@@ -20,7 +20,7 @@ The `docker-compose.yml` file contains the Docker configuration for the services
 ### Build and run containers
 
 ```bash
-docker compose up --build
+docker compose up
 ```
 
 The project will be accessible at the following address:
