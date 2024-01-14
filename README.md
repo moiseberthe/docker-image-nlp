@@ -27,3 +27,13 @@ The project will be accessible at the following address:
 
 - Streamlit: [http://localhost:8501](http://localhost:8501)
 - FastAPI: [http://localhost:8000](http://localhost:8000)
+
+### Other commands
+
+```bash
+docker tag nlp-server:latest moiseberthe/nlp-server:latest
+```
+
+```bash
+docker push moiseberthe/nlp-server:latest
+```
