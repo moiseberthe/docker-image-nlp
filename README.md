@@ -1,5 +1,7 @@
 # Docker project with Streamlit, FastAPI and SQLite
 
+This repository contains the YAML file used to orchestrate two Docker images hosted on Docker Hub. The first image contains a FastAPI server, the second a Streamlit client. The source code for these images can be found in the repository at this link [http://github.com/moiseberthe/sise-nlp](http://github.com/moiseberthe/sise-nlp)
+
 ## Prerequisites
 
 Make sure you have `Docker` and `Docker Compose` installed on your machine.
