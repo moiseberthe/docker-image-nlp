@@ -17,6 +17,12 @@ git clone https://github.com/moiseberthe/docker-image-nlp.git
 
 The `docker-compose.yml` file contains the Docker configuration for the services.
 
+### Pull images
+
+```bash
+docker compose up
+```
+
 ### Build and run containers
 
 ```bash
